@@ -24,3 +24,12 @@ hs_err_pid*
 replay_pid*
 
 venv
+
+*.env
+.env
+
+volume/
+/volume
+*/volume
+*volume
+volume
