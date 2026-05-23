@@ -33,3 +33,28 @@ volume/
 */volume
 *volume
 volume
+
+# Maven
+target/
+
+# macOS
+.DS_Store
+
+# IDE — IntelliJ / Eclipse
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# VS Code (keep shared settings.json)
+.vscode/*
+!.vscode/settings.json
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# env overrides
+.env.local
+.env.*.local
