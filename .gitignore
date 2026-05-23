@@ -25,7 +25,7 @@ replay_pid*
 
 venv
 
-*.env
+*/.env
 .env
 
 volume/
